@@ -31,7 +31,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="32dp"
-        android:text="A lele é demais !!!! :-)"
+        android:text="Second Screen"
         android:textColor="#E91E63"
         android:textSize="30sp"
         app:layout_constraintEnd_toEndOf="parent"
